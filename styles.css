@@ -50,8 +50,34 @@ table {
 	border-spacing: 0;
 }
 /* -------------------- ROOT VARIABLES --------------------------------------- */
-
+:root{
+    --text-font-content: "Habibi";
+    --heading-font: "Irish Grover";
+    --green:#06A816;
+    --orange:#E75D02;
+    --black:#000000;
+    --white:#ffffff;
+}
 /* --------------------GLOBAL STYLES (mobile first/small) --------------------*/
+body{
+    background-color: var(--white);
+    color:var(--black);
+    display:flex;
+}
+header
+h1
+p
+nav
+ul
+li
+a
+main
+section
+h2
+h3
+img
+footer
+address
 
 /*-------------------- MEDIA QUERY (medium) --------------------------------*/
 
